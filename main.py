@@ -100,7 +100,7 @@ def main():
             print("¡Hasta luego!")
             break
         else:
-            print("opcion invalida. poir favor, selecione una opcion valida.")
+            print("opcion invalida. por favor, selecione una opcion valida.")
 
 if __name__ == "__main__":
     main()
